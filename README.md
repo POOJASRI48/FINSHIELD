@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finshield
 
 **Don't just backtest. Stress-test.**
@@ -174,3 +175,6 @@ docker compose up --build
 ## Disclaimer
 
 For research and educational analysis. Historical backtest results do not guarantee future performance.
+=======
+# FINSHIELD
+>>>>>>> ad41936391fcc88f5448d67fa3f73e5ee69ea861
